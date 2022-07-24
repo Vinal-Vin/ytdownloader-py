@@ -1,4 +1,4 @@
-## Simple YouTube Video Downloader 🚀
+# Simple YouTube Video Downloader 🚀
 
 You can download a list of videos you want without any online downloader now.
 
